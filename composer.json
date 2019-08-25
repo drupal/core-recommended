@@ -1,0 +1,6 @@
+{
+    "name": "greg-1-anderson/core-recommended-dependencies",
+    "type": "metapackage",
+    "description": "Locked core dependencies; require this project INSTEAD OF drupal/core.",
+    "license": "GPL-2.0-or-later"
+}
