@@ -12,6 +12,7 @@
         "doctrine/inflector": "v1.0",
         "doctrine/lexer": "v1.0",
         "easyrdf/easyrdf": "0.8.0",
+        "egulias/email-validator": "1.2.2",
         "guzzlehttp/guzzle": "4.1.7",
         "guzzlehttp/streams": "1.5.1",
         "kriswallsmith/assetic": "v1.1.1",
