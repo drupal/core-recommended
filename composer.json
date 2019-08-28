@@ -36,7 +36,7 @@
         "symfony/debug": "v3.4.26",
         "symfony/dependency-injection": "v3.4.26",
         "symfony/event-dispatcher": "v3.4.26",
-        "symfony/http-foundation": "v3.4.26",
+        "symfony/http-foundation": "v3.4.27",
         "symfony/http-kernel": "v3.4.26",
         "symfony/polyfill-ctype": "v1.11.0",
         "symfony/polyfill-iconv": "v1.11.0",
