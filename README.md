@@ -1,4 +1,4 @@
-# drupal/core-recommended-dependencies
+# drupal/core-recommended
 
 This project is for use with a Composer-managed Drupal site. It is recommended
 that all Composer-managed Drupal sites use this project.
@@ -21,7 +21,7 @@ Drupal.
 
 When using this project, upgrade your Drupal site as follows:
 ```
-$ composer update drupal/core-recommended-dependencies --with-dependencies
+$ composer update drupal/core-recommended --with-dependencies
 ```
 This will update `drupal/core` and any needed dependencies.
 
