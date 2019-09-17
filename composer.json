@@ -4,7 +4,7 @@
     "description": "Locked core dependencies; require this project INSTEAD OF drupal/core.",
     "license": "GPL-2.0-or-later",
     "require": {
-        "drupal/core": "self.version",
+        "drupal/legacy-scaffold-assets": "self.version",
         "asm89/stack-cors": "1.0.0",
         "composer/installers": "v1.2.0",
         "composer/semver": "1.4.2",
@@ -51,5 +51,8 @@
         "zendframework/zend-escaper": "2.5.2",
         "zendframework/zend-feed": "2.7.0",
         "zendframework/zend-stdlib": "3.0.1"
+    },
+    "conflict": {
+        "webflo/drupal-core-strict": "*"
     }
 }
