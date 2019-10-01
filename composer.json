@@ -42,7 +42,7 @@
         "symfony/serializer": "v3.4.4",
         "symfony/translation": "v3.4.4",
         "symfony/validator": "v3.4.4",
-        "symfony/yaml": "v3.4.4",
+        "symfony/yaml": "v3.4.5",
         "twig/twig": "v1.35.0",
         "wikimedia/composer-merge-plugin": "v1.4.1",
         "zendframework/zend-diactoros": "1.4.1",
