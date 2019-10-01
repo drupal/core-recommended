@@ -45,6 +45,7 @@
         "symfony/validator": "v3.4.15",
         "symfony/yaml": "v3.4.15",
         "twig/twig": "v1.35.4",
+        "typo3/phar-stream-wrapper": "v2.0.1",
         "wikimedia/composer-merge-plugin": "v1.4.1",
         "zendframework/zend-diactoros": "1.4.1",
         "zendframework/zend-escaper": "2.5.2",
