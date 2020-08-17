@@ -4,7 +4,7 @@ This project is for use with a Composer-managed Drupal site. It is recommended
 that all Composer-managed Drupal sites use this project.
 
 Require this project *instead of* the [drupal/core](https://github.com/drupal/core)
-subtree split in order to guarentee that all of the dependencies from
+subtree split in order to guarantee that all of the dependencies from
 `drupal/core` will be included in your Drupal site at exactly the same version
 that was tested with the version of Drupal you are currently using.
 
