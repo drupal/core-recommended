@@ -39,7 +39,7 @@
         "symfony/dependency-injection": "v4.4.9",
         "symfony/error-handler": "v4.4.9",
         "symfony/event-dispatcher": "v4.4.9",
-        "symfony/event-dispatcher-contracts": "v1.1.7",
+        "symfony/event-dispatcher-contracts": "v2.0.0",
         "symfony/http-foundation": "v4.4.9",
         "symfony/http-kernel": "v4.4.13",
         "symfony/mime": "v5.1.0",
