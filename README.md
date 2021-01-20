@@ -17,6 +17,11 @@ encountering one of these bugs. Using the recommended dependencies avoids this
 problem by only using dependency versions that have already been tested with
 Drupal.
 
+The consequence of *using* this project is that it prevents you from updating
+packages used by Drupal core. When a security update is released for any of
+the packages listed in this composer.json you cannot update that package but 
+have to wait for a new Drupal release.
+
 ## Upgrading
 
 When using this project, upgrade your Drupal site as follows:
